@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nehaparbate
 - 👀 I’m interested in Data Science and Machine Learning and Software Engineering
-- 🌱 I’m currently learning Python, React, Algorithms
+- 🌱 I’m currently learning React, Web Developement
 - 📫 How to reach me - https://www.linkedin.com/in/neha-parbate-1b4502193/ 
 
 <!---
